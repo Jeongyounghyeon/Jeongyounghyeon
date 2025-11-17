@@ -5,6 +5,8 @@
 기술이나 코드 자체보다는 **‘왜 이 방법을 선택하는가’** 에 집중하며,  
 상황에 맞는 최적의 기술과 구현 방식을 선택하는 개발자를 지향합니다.
 
+![youjeong's 42 stats](https://badge.mediaplus.ma/darkblue/youjeong?1337Badge=off&UM6P=off)
+
 #### 💻 Skills 💻
 <div align=center>
 
